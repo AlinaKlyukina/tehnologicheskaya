@@ -1,0 +1,10 @@
+C:\Users\m9ml1k\Downloads\case3\obj\Debug\case3.csproj.AssemblyReference.cache
+C:\Users\m9ml1k\Downloads\case3\obj\Debug\case3.Properties.Resources.resources
+C:\Users\m9ml1k\Downloads\case3\obj\Debug\case3.csproj.GenerateResource.cache
+C:\Users\m9ml1k\Downloads\case3\obj\Debug\case3.csproj.CoreCompileInputs.cache
+C:\Users\m9ml1k\Downloads\case3\bin\Debug\case3.exe.config
+C:\Users\m9ml1k\Downloads\case3\bin\Debug\case3.exe
+C:\Users\m9ml1k\Downloads\case3\bin\Debug\case3.pdb
+C:\Users\m9ml1k\Downloads\case3\obj\Debug\case3.exe
+C:\Users\m9ml1k\Downloads\case3\obj\Debug\case3.pdb
+C:\Users\m9ml1k\Downloads\case3\obj\Debug\case3.Form1.resources

@@ -1,0 +1,14 @@
+C:\Users\m9ml1k\Desktop\Инст\tehnologicheskaya\case4\bin\Debug\net8.0\case4.exe
+C:\Users\m9ml1k\Desktop\Инст\tehnologicheskaya\case4\bin\Debug\net8.0\case4.deps.json
+C:\Users\m9ml1k\Desktop\Инст\tehnologicheskaya\case4\bin\Debug\net8.0\case4.runtimeconfig.json
+C:\Users\m9ml1k\Desktop\Инст\tehnologicheskaya\case4\bin\Debug\net8.0\case4.dll
+C:\Users\m9ml1k\Desktop\Инст\tehnologicheskaya\case4\bin\Debug\net8.0\case4.pdb
+C:\Users\m9ml1k\Desktop\Инст\tehnologicheskaya\case4\obj\Debug\net8.0\case4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m9ml1k\Desktop\Инст\tehnologicheskaya\case4\obj\Debug\net8.0\case4.AssemblyInfoInputs.cache
+C:\Users\m9ml1k\Desktop\Инст\tehnologicheskaya\case4\obj\Debug\net8.0\case4.AssemblyInfo.cs
+C:\Users\m9ml1k\Desktop\Инст\tehnologicheskaya\case4\obj\Debug\net8.0\case4.csproj.CoreCompileInputs.cache
+C:\Users\m9ml1k\Desktop\Инст\tehnologicheskaya\case4\obj\Debug\net8.0\case4.dll
+C:\Users\m9ml1k\Desktop\Инст\tehnologicheskaya\case4\obj\Debug\net8.0\refint\case4.dll
+C:\Users\m9ml1k\Desktop\Инст\tehnologicheskaya\case4\obj\Debug\net8.0\case4.pdb
+C:\Users\m9ml1k\Desktop\Инст\tehnologicheskaya\case4\obj\Debug\net8.0\case4.genruntimeconfig.cache
+C:\Users\m9ml1k\Desktop\Инст\tehnologicheskaya\case4\obj\Debug\net8.0\ref\case4.dll
